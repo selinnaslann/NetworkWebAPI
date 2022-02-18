@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2520D45C-B4A8-41F6-9657-BFF6301259ED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetworkWebAPI.WebAPI/DataAccess/ProductRepository.cs">
+    <Files>
+      <File FileName="NetworkWebAPI.WebAPI/Controllers/ProductController.cs" Line="9" Column="24" />
+      <File FileName="NetworkWebAPI.WebAPI/DataAccess/CategoryRepository.cs" Line="1" Column="1" />
+      <File FileName="NetworkWebAPI.WebAPI/DataAccess/ProductRepository.cs" Line="55" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NetworkWebAPI" expanded="True">
+            <Node name="NetworkWebAPI.WebAPI" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="DataAccess" expanded="True">
+                <Node name="ProductRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NetworkWebAPI.WebAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
